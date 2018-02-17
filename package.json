@@ -1,0 +1,15 @@
+{
+  "name": "react-infinite-loader",
+  "version": "1.0.0",
+  "description": "Simple react component that adds an infinite scroll loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nishant Mehta",
+  "license": "MIT",
+  "dependencies": {
+    "proptypes": "^1.1.0",
+    "react": "^16.2.0"
+  }
+}
